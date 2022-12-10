@@ -1,6 +1,9 @@
 # YouTube Search
 用Java的Swing寫的電腦版YouTube搜尋器
 
+## 特別感謝
+- JSON函式庫支援: [stleary/JSON-java](https://github.com/stleary/JSON-java)
+
 ## 環境
 該程式是在Java 17.0.4下編譯的，最低運行版本未知（請自己跑跑看吧）
 
