@@ -7,6 +7,12 @@
 ## 環境
 該程式是在Java 17.0.4下編譯的，最低運行版本未知（請自己跑跑看吧）
 
+## 程式碼
+請移至 `src/Main.java` 或[點擊這裡](/src/Main.java)
+
+## 下載
+請移至右側的Release區或點擊右上綠色按鈕的`Code`
+
 ## 編譯加運行
     javac -cp bin/json.jar -encoding utf-8 -d out -Xlint:unchecked src/Main.java
     java -cp out;bin/* com.carrieforle.ytsearch.Main
