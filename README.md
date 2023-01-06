@@ -11,7 +11,7 @@
 請移至 `src/Main.java` 或[點擊這裡](/src/Main.java)
 
 ## 下載
-請移至右側的Release區或點擊右上綠色按鈕的`Code`
+[載點](https://github.com/10835/YouTube-Search/releases/latest)
 
 ## 編譯加運行
     javac -cp bin/json.jar -encoding utf-8 -d out -Xlint:unchecked src/Main.java
