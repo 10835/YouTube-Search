@@ -11,7 +11,7 @@
 請移至 `src/Main.java` 或[點擊這裡](/src/Main.java)
 
 ## 下載
-[載點](https://github.com/10835/YouTube-Search/releases/download/latest/yt-search.jar)
+[載點](https://github.com/10835/YouTube-Search/releases/latest/download/yt-search.jar)
 
 ## 編譯加運行
     javac -cp bin/json.jar -encoding utf-8 -d out -Xlint:unchecked src/Main.java
